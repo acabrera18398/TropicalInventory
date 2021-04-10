@@ -1,1 +1,2 @@
-com/servlets/GetLogin.class
+com/servlets/producto/GetRecepcion.class
+com/servlets/login/GetLogin.class
