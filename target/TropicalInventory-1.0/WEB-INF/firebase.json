@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tropicalinventory-309920",
+  "private_key_id": "a8d18b7d7ad4a03e1495a2bd1622279268e0ce5a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCirJ/J8XKOdcxB\nEL8/O6YrGWsjDAZKOsaA3SOw+poqcdFRQm9+DRNZYVR0YDBJeVpVi54D/jYcWHZ3\nKAE512e6V9Vz7vZoQu/8DUBp0N/GGquCMIlcDqMWXVSVf8GrareKwrdFc8WOXSwb\nukKMk4NCshCoxWiso+zCSYC6tHFeuYYuJ9cukGVdgJPXewhHSwZ2sDEely/imn3r\nmyx3HmawW4pybjogeS1/hOwP46o9DFqoPWwwfUyeeo6VQj6E8lyQxKCQbJ4kJ8v0\ntw5D04wMdt/gJLvgII7xUOfW+MzOtM+5S/DdcxnONolCPia1YWmANqG5gWo+zGcv\n7FaPiEzLAgMBAAECggEAPVfeS682dT07oF+Z1tT+BOupaIZsysoeN9LsVh0yTIYu\nGjf0xjJVFRPsXpQ1MUfHRlIHbNcMfaToS2e1CqRNc8oSbozys39mcwRmQWDoOZKu\nEUKPUb0dR946+sM5+5ObEgL6TIDrQxOkgfI7jTpFOb3fJV2H6u5H5j4EgqNvyvmN\ng8HflRraOD9RaXZqwnn/kGXrvjONCL9ks0N1j9IYRVRvlRanSHZ1lesMKyU3L5us\n3DYjA0sTGLvypQyQQ/ONQzPMfrCoorJZiQUCi81yLzCLkNc2uiRMBYlSuzvzpALY\nEXifoGI+a/RJRRZfcSC6AXmsoxa8qhGcyz/0E3he8QKBgQDeVlP55xKSxiEynvsB\nJZ3BzOf90ERAmnFCeRNimEB4JRWQOG5ifis1Q1ojNn1PWvlZFKpZSfW29Dj5SmuY\nQJQSOwh6h+FRLM7Q7xnrqcOBgR8HUvamhqeAoEOiq2RkgCEVe7cJtK7EtwChRa4d\nVnhFB3ohJadeAcNhBZ1MUv2FmwKBgQC7Tcszcsv4djLLUnNQvzBPh9OKr4LzNxCU\nOvL40YtDX08QHUBjhvXSXBNkyYlifk+Zijh6ugHJmGMPAIXedoGhz8PecxpEqPaf\nSAc5JPElfwuD3XJfW9rpuJQSDKWOvkptrmV5fyZJT4375wp7P81AEK0RDY1oAMk/\nNk0z/5jgkQKBgHdoS69x/1KeX+Ps6AdEqYYUwx9YQ9+iUmON3PBdrnoYCI2tEPOK\nqS/w3S7+K6x7wmCqLZbIltNMNHEGG+ToAd4MoFAWO9c5xlUFpJkhUmNx8jUfxGHI\n/Zqh99EcVU14VsxP5gyrYhU553e1kX4mG2+PRXMZ4tok/kZUGpeMFqYzAoGAd/ss\nSGen6x/kB8RoI/hkvP1X8AXfz2adkyZz0BmCqQSbg8oJHfgs7bSXo79J5zLcUJFu\n/oa6cGXSRqDiIBAvl/ScFpoK4KKPYJbmMZ/NbWSFftHS2uzfPUpEZ498WgThboMB\nc6OUZe+1FwD4AN1s4DYOdtcElvOx9nEVYVLAnlECgYEAiS/AE+/jBgkt1Erqzl67\nJyHZg7mT5129IYN1muNvmhqTxh87ly2yoUUltyJIJeijfyVJJMg2NAnTdIll5g/B\nCHc7CGGyoaaAcCTRHPcMaezMdivfmIDazqjbAyB/raZEOekrr0Chsq36Gz+FabUb\nKWudFahZa+G8jHUhl66H5a0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-31vg3@tropicalinventory-309920.iam.gserviceaccount.com",
+  "client_id": "112868873931065974709",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-31vg3%40tropicalinventory-309920.iam.gserviceaccount.com"
+}

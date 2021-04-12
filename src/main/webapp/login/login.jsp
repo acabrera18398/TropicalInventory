@@ -21,5 +21,12 @@
     </head>
     <body>
         <h1>Login</h1>
+        <form method="POST" action="<c:url value="/Login" />">
+            <input type="text" name="correo" />
+            <br/>
+            <input  type="password" name="password" />
+            <br/>
+            <button>Iniciar Sesión</button>
+        </form>
     </body>
 </html>
