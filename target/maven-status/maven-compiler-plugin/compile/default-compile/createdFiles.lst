@@ -1,1 +1,5 @@
-com/servlets/GetLogin.class
+com/servlets/login/Login.class
+com/servlets/producto/GetRecepcion.class
+com/servlets/login/GetLogin.class
+com/models/Usuario.class
+com/database/FirebaseDB.class
